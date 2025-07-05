@@ -36,15 +36,16 @@
 
 ## 📊 Результати
 1. Побудований граф мережі
-<img src="task_1_max_flow/screenshots/Figure_1_graph_output.png.png" alt="Граф логістичної мережі" width="600"/>
+
+![Граф логістичної мережі](task_1_max_flow/screenshots/Figure_1_graph_output.png.png)
 
 2. Таблиця потоків
 
-<img src="task_1_max_flow/screenshots/terminal_flow_results.png" alt="Таблиця потоків" width="600"/>
+![Таблиця потоків](task_1_max_flow/screenshots/terminal_flow_results.png)
 
 3. Аналітичні висновки
 
-<img src="task_1_max_flow/screenshots/flow_summary_analysis.png" alt="Аналітичні висновки" width="600"/>
+![Аналітичні висновки](task_1_max_flow/screenshots/flow_summary_analysis.png)
 
 ##  🧠 Логічні висновки:
 1. Найбільший потік забезпечує Термінал 2 (T2) завдяки Складу 4.
@@ -69,7 +70,7 @@
 
 1. Вивід timeit і логічні висновки
 
-<img src="task_2_oobtree_vs_dict/screenshots/range_query_performance.png" alt="Вивід timeit і логічні висновки" width="600"/>
+![Вивід timeit і логічні висновки](task_2_oobtree_vs_dict/screenshots/range_query_performance.png)
 
 2. Загальний висновок
 
