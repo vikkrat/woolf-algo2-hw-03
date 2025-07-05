@@ -1,0 +1,25 @@
+# Віртуальне середовище
+venv/
+ENV/
+env/
+.venv/
+
+# Файли Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Системні
+.DS_Store
+Thumbs.db
+
+# Файли IDE
+.vscode/
+.idea/
+
+# Зображення графа
+*.png
+
+# CSV та інші великі дані (залишити, якщо data/ буде в LMS, інакше додати до репо)
+# data/*.csv
